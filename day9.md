@@ -1,4 +1,6 @@
 The spring framework will create each object and pass the properties described in the xml file.
+xml file configuration is not using in modern days.
+
 The spring framework will call the setter methods when the values are passed as properties.
 for map data types the values are passed as decribed in the image
 ![[Pasted image 20250220171409.png]]
