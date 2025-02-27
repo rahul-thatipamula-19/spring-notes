@@ -27,3 +27,4 @@ Constructor: In java, it is a block which will be executed at object creation.
 </bean>
 ```
 
+![[Pasted image 20250221064338.png]]
